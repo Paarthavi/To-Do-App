@@ -1,5 +1,4 @@
 Make soup.
-Clean the program
 Buy the painting
 Good OrderWe just made a default arg
 Get the car
